@@ -1,0 +1,10 @@
+types of assembly:
+
+x86
+pc and servers
+
+ARM
+smartphones and tablets
+
+RISC-V
+open source
